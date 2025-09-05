@@ -83,3 +83,24 @@ Aquí están algunas de las tecnologías con las que trabajo:
 <div align="center">
   <img src="https://raw.githubusercontent.com/KevinJaramillo2121/KevinJaramillo2121/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation">
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KevinJaramillo2121&color=blueviolet&style=flat-square" alt="Contador de Visitas">
+</div>
+
+---
+
+## 🚀 Mis Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/KevinJaramillo2121/Desarrolla_Conecta_Crece">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KevinJaramillo2121&repo=Desarrolla_Conecta_Crece&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/TekilaNCD/Lava2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TekilaNCD&repo=Lava2&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinJaramillo2121&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+</div>
